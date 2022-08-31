@@ -1,0 +1,9 @@
+Package: com.said.sdata
+Name: Data Tracker
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Track Your Cellular Data Usage Easily 
+Maintainer: Said Al Mujaini
+Author: Said Al Mujaini
+Section: Control Center (Modules)
